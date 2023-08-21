@@ -13,7 +13,7 @@ assento que o cliente deseja sentar (linha e coluna).
 tipo de ingresso (1 = normal, 2 = meia e 3 = cortesia)
 <br>*Atenção, não vender um assento inexistente ou já vendido!*
 <br>Ao finalizar a aplicação mostrar:
-- total de ingressos normais vendidos.
-- total de ingressos meia entrada vendidos.
-- total de ingressos cortesia fornecidos.
+- Total de ingressos normais vendidos.
+- Total de ingressos meia entrada vendidos.
+- Total de ingressos cortesia fornecidos.
 - Total arrecadado
